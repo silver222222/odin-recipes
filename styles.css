@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: honeydew;
+}
+.header,
+.image{
+    text-align: center;
+}
+h3{
+    color: red;
+}
+ul {
+    font-style: italic;
+}
